@@ -1,14 +1,14 @@
 
 # Supported tags and respective Dockerfile links
-[7.9](https://github.com/creecros/resourcespace-docker/blob/v7.9/Dockerfile)
+[v7.9](https://github.com/creecros/resourcespace-docker/blob/v7.9/Dockerfile)
 
-[8.0](https://github.com/creecros/resourcespace-docker/blob/v8.0/Dockerfile)
+[v8.0](https://github.com/creecros/resourcespace-docker/blob/v8.0/Dockerfile)
 
-[8.1](https://github.com/creecros/resourcespace-docker/blob/v8.1/Dockerfile)
+[v8.1](https://github.com/creecros/resourcespace-docker/blob/v8.1/Dockerfile)
 
-[8.2](https://github.com/creecros/resourcespace-docker/blob/v8.2/Dockerfile)
+[v8.2](https://github.com/creecros/resourcespace-docker/blob/v8.2/Dockerfile)
 
-[8.3](https://github.com/creecros/resourcespace-docker/blob/v8.3/Dockerfile)
+[v8.3](https://github.com/creecros/resourcespace-docker/blob/v8.3/Dockerfile)
 
 
 # ResourceSpace Docker Container
