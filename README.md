@@ -17,7 +17,7 @@ ResourceSpace running on Apache2 Docker Container Built on phusion/baseimage
 ## Example usage:
 ```
 docker run -p 80:80 \
-creecros/resourcespace-docker
+creecros/resourcespace-docker:v8.3
 ```
 ```
 docker run -p 3306:3306 \
