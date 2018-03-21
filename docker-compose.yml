@@ -1,7 +1,7 @@
 version: '2'
 services:
   resourcespace:
-    image: creecros/resourcespace-docker:latest
+    image: creecros/resourcespace-docker:v8.4
     stdin_open: true
     network_mode: bridge
     tty: true
