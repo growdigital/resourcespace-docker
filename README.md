@@ -10,6 +10,12 @@
 
 [v8.3](https://github.com/creecros/resourcespace-docker/blob/v8.3/Dockerfile)
 
+[v8.4](https://github.com/creecros/resourcespace-docker/blob/v8.4/Dockerfile)
+
+[v8.5](https://github.com/creecros/resourcespace-docker/blob/v8.5/Dockerfile)
+
+[v8.6](https://github.com/creecros/resourcespace-docker/blob/v8.6/Dockerfile)
+
 
 # ResourceSpace Docker Container
 ResourceSpace running on Apache2 Docker Container Built on phusion/baseimage
