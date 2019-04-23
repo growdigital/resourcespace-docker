@@ -68,12 +68,12 @@ volumes:
     driver: local
     driver_opts:
       type: none
-      device: /mnt/resourcespace/filestore
+      device: /mnt/to/your/path
       o: bind
   include:
     driver: local
     driver_opts:
       type: none
-      device: /mnt/resourcespace/include
+      device: /mnt/to/your/path
       o: bind
   ```
