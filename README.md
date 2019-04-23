@@ -38,6 +38,8 @@ To create volumes on the host, create the volumes with docker volume create
 
 In resourcespace Installation, seem to not be able to specify a port, so either map to 3306 or use the private IP during install.
 
+designate your path: `/mnt/to/your/path`
+
 ## docker-compose example
 ```
 version: '2'
